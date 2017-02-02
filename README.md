@@ -18,8 +18,6 @@ After you have added this, run `npm test` to run the test suite.
 
 ### Usage
 
-Events can be added for testing in the `./test/fixtures` directory.
-
 The easiest way to quickly use the API is to add it as a dependency to a node project:
 
 `npm install https://github.com/ccnixon/segment-amplitude`
@@ -77,7 +75,11 @@ ip               : 'context.ip',
 paying           : 'properties.paying'
 ```
 
+### Testing
 
+`npm test`
+
+Events can be added for testing in the `./test/fixtures` directory. Be sure to require the new event file in `tests/fixtures/index.js`.
 
 
 
