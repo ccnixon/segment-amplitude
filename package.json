@@ -15,7 +15,8 @@
     "debug": "^2.6.0",
     "dotenv": "^4.0.0",
     "express": "^4.14.0",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "winston": "^2.3.1"
   },
   "devDependencies": {
     "lodash": "^4.17.4",
