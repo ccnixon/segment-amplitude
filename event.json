@@ -1,0 +1,57 @@
+{
+  "sku": "d4d16f30-eabb-4c4d-90c4-036264dc5cc5",
+  "category": "Widgets",
+  "product_id": "d4d16f30-eabb-4c4d-90c4-036264dc5cc5",
+  "timestamp": "2017-01-07T19:10:27.957877",
+  "brand": "WidgetCo",
+  "userId": "4b8e7b78-ecf2-4dc0-b473-55fd5e50632a",
+  "name": "Widget mlgsvjwq",
+  "price": 136.99,
+  "currency": "usd",
+  "version": 2,
+  "context": {
+    "locale": "en-US",
+    "userAgent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit\/601.1.46 (KHTML, like Gecko) Version\/9.0 Mobile\/13B143 Safari\/601.1",
+    "location": {
+      "latitude": 40.2964197,
+      "city": "San Francisco",
+      "speed": 0,
+      "longitude": -76.9411617,
+      "country": "United States"
+    },
+    "timezone": "America\/Los_Angeles",
+    "device": {
+      "advertisingId": "e9c12cd4-0001-4821-ad49-6110a4b2193d",
+      "token": "78a5cf98-bd57-4fc6-aae4-bd923c67529c",
+      "model": "iPhone6",
+      "type": "ios",
+      "id": "facf9a82-583c-4a56-a89f-d807d03e4877",
+      "adTrackingEnabled": true,
+      "manufacturer": "Apple"
+    },
+    "ip": "203.199.84.175",
+    "screen": {
+      "width": 320,
+      "density": 2,
+      "height": 568
+    },
+    "os": {
+      "version": "9.1",
+      "name": "iPhone OS"
+    },
+    "library": {
+      "version": 1,
+      "name": "analytics.js"
+    },
+    "network": {
+      "wifi": false,
+      "carrier": "T-Mobile NL",
+      "cellular": true,
+      "bluetooth": false
+    }
+  },
+  "messageId": "2daa355c-df0a-49d7-8e60-2ba6f26e03b5",
+  "type": "track",
+  "event": "Product Viewed",
+  "quantity": 1
+}
