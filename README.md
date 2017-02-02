@@ -10,12 +10,6 @@ $ cd segment-amplitude
 $ npm install
 ```
 
-Next, create a .env file in the root directory of the repo. Into the new file, put the following:
-
-`API_KEY=<AMPLITUDE-API-KEY>`
-
-After you have added this, run `npm test` to run the test suite.
-
 ### Usage
 
 The easiest way to quickly use the API is to add it as a dependency to a node project:
@@ -34,6 +28,8 @@ amplitude.send(event, function(err, res){
   else return res;
 });
 ```
+
+Be sure to replace `AMPLITUDE-API-KEY` with your own Amplitude key.
 
 ### API
 
